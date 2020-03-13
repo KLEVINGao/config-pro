@@ -9,4 +9,4 @@ spring:
 
 
 env:
-  dev update
+  dev 
