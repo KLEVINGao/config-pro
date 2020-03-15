@@ -1,1 +1,12 @@
-env :this is profile
+spring:
+  application:
+    name: client
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://127.0.0.1:3306/test
+
+
+env:
+  dev update
