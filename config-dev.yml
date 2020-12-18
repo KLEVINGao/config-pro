@@ -12,4 +12,7 @@ env:
   dev update
 
 config: 
+ info: this is config-dev.yml1
+ 
+ confi2g: 
  info: this is config-dev.yml
