@@ -12,7 +12,7 @@ env:
   dev update
 
 config: 
- info: this is config-dev.yml2
+ info: this is config-dev.yml26546565
  
 abc: 
   aaa1235
