@@ -11,4 +11,5 @@ spring:
 env:
   dev update
 
-info: this is config-dev.yml
+config: 
+ info: this is config-dev.yml
